@@ -13,3 +13,6 @@ xray社区版貌似没有批量扫描，这就让安服仔使用起来很不方�
 2. oneforall结果在其.\oneforall\result根目录下
 3. .\log\vuluns.txt中存储上次漏洞记录
 4. 漏洞扫描结果会实时显示在监控终端中。
+## 演示
+
+![image](https://z3.ax1x.com/2021/10/26/5IykWj.gif)
